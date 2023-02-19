@@ -1,1 +1,1 @@
-https://immersiverealities.pages.enterpriselab.ch/StudentProjects/gamedev-hs21/semesterprojekt/g05-extracrunch/3d-monster-maze-build
+https://cottonshop.github.io/3d-monster-maze-build/
